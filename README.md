@@ -31,7 +31,7 @@ Query 4: View rating for homes that cost great han or equal to $350,000
 ![Alt text](image-4.png)
 
 
-Also, I compared the run times for Query 4 based on Uncache, Cached, and Runtime with the parquet DataFrame
+Also, I compared the run times for Query 4 based on Uncache, Cached, and Runtime with the parquet DataFrame:
 
 Uncached: 1.09 secs
 
